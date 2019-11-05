@@ -1,6 +1,6 @@
 # Statistical-Inference-Project
 
-Title- Analyzing the opinion on Presidential Election 2020 of Educated Youth Population in Western Province
+**Title- Analyzing the opinion on Presidential Election 2020 of Educated Youth Population in Western Province**
 
 Research Question: 
 The main objective of this research is to predict which candidate has the highest chance to win the next presidential election and how the voter’s response to the national policies that the candidates going to implement in the next five years. 
